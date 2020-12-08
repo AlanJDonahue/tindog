@@ -1,2 +1,1 @@
-# tindog
-tinder knockoff from web dev course
+TinDog Starting Files
